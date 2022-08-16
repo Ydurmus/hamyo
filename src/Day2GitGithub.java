@@ -10,5 +10,6 @@ public class Day2GitGithub {
         //KENDIN YAP DENEMESI
         //rtgdfgsgs
         //sennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+        //git hub dan gönderilen kod geldi mi?
     }
 }
