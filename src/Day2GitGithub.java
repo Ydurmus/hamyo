@@ -18,6 +18,7 @@ public class Day2GitGithub {
 
         int sayi2=22035;
         System.out.println("sayi = "+"HAMYO"+ + sayi);
+        //eklemedir koca konak
 
     }
 }
