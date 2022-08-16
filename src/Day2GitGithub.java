@@ -15,5 +15,8 @@ public class Day2GitGithub {
         int sayi=43;
         System.out.println("sayi = " + sayi);
 
+        int sayi2=22035;
+        System.out.println("sayi = "+"HAMYO"+ + sayi);
+
     }
 }
