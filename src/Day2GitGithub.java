@@ -9,5 +9,6 @@ public class Day2GitGithub {
 
         //KENDIN YAP DENEMESI
         //rtgdfgsgs
+        //sennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
     }
 }
