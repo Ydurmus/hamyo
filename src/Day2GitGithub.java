@@ -11,5 +11,9 @@ public class Day2GitGithub {
         //rtgdfgsgs
         //sennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
         //git hub dan gönderilen kod geldi mi?
+
+        int sayi=43;
+        System.out.println("sayi = " + sayi);
+
     }
 }
